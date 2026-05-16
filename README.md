@@ -5,8 +5,8 @@
 | Project | Description | ★ Stars |
 | --- | --- | --- |
 | [parallel-browser-mcp](https://github.com/etairl/parallel-browser-mcp) | MCP server for parallel browser automation by AI agents across multiple cloud providers | ![Stars](https://img.shields.io/github/stars/etairl/parallel-browser-mcp?style=flat&label=%E2%98%85&color=yellow) |
-| [OpenIoT](https://github.com/etairl/OpenIoT) | Open-source IoT platform for makers | ![Stars](https://img.shields.io/github/stars/etairl/OpenIoT?style=flat&label=%E2%98%85&color=yellow) |
 | [Probus](https://github.com/etairl/Probus) | Open-source AI vulnerability discovery | ![Stars](https://img.shields.io/github/stars/etairl/Probus?style=flat&label=%E2%98%85&color=yellow) |
+| [OpenIoT](https://github.com/etairl/OpenIoT) | Open-source IoT platform for makers | ![Stars](https://img.shields.io/github/stars/etairl/OpenIoT?style=flat&label=%E2%98%85&color=yellow) |
 
 ## Contributor
 
