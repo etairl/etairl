@@ -12,6 +12,6 @@
 
 | Project | Description | ★ Stars | PRs |
 | --- | --- | --- | --- |
-| [n8n-io/n8n](https://github.com/n8n-io/n8n) | Fair-code workflow automation platform with native AI capabilities | 188,038 | [#29405](https://github.com/n8n-io/n8n/pull/29405) |
-| [deepset-ai/haystack](https://github.com/deepset-ai/haystack) | Open-source AI orchestration framework for production LLM applications | 25,244 | [#11248](https://github.com/deepset-ai/haystack/pull/11248) |
-| [vercel/ai](https://github.com/vercel/ai) | The AI SDK for TypeScript — build AI-powered apps and agents | 24,255 | [#14750](https://github.com/vercel/ai/pull/14750), [#14751](https://github.com/vercel/ai/pull/14751) |
+| [n8n-io/n8n](https://github.com/n8n-io/n8n) | Fair-code workflow automation platform with native AI capabilities | 188,038 | [#29405](https://github.com/n8n-io/n8n/pull/29405), [#29151](https://github.com/n8n-io/n8n/pull/29151) |
+| [deepset-ai/haystack](https://github.com/deepset-ai/haystack) | Open-source AI orchestration framework for production LLM applications | 25,244 | [#11248](https://github.com/deepset-ai/haystack/pull/11248), [#11229](https://github.com/deepset-ai/haystack/pull/11229), [#11228](https://github.com/deepset-ai/haystack/pull/11228), [#11226](https://github.com/deepset-ai/haystack/pull/11226) |
+| [vercel/ai](https://github.com/vercel/ai) | The AI SDK for TypeScript — build AI-powered apps and agents | 24,255 | [#14751](https://github.com/vercel/ai/pull/14751), [#14750](https://github.com/vercel/ai/pull/14750), [#14749](https://github.com/vercel/ai/pull/14749) |
