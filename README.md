@@ -16,3 +16,9 @@
 | [langchain-ai/langgraphjs](https://github.com/langchain-ai/langgraphjs) | Framework to build resilient language agents as graphs | ![Stars](https://img.shields.io/github/stars/langchain-ai/langgraphjs?style=flat&label=%E2%98%85&color=yellow) | [#2397](https://github.com/langchain-ai/langgraphjs/pull/2397) ✅ (co-authored), [#2353](https://github.com/langchain-ai/langgraphjs/pull/2353), [#2337](https://github.com/langchain-ai/langgraphjs/pull/2337) |
 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | Fair-code workflow automation platform with native AI capabilities | ![Stars](https://img.shields.io/github/stars/n8n-io/n8n?style=flat&label=%E2%98%85&color=yellow) | [#29405](https://github.com/n8n-io/n8n/pull/29405) ✅, [#29151](https://github.com/n8n-io/n8n/pull/29151) |
 | [deepset-ai/haystack](https://github.com/deepset-ai/haystack) | Open-source AI orchestration framework for production LLM applications | ![Stars](https://img.shields.io/github/stars/deepset-ai/haystack?style=flat&label=%E2%98%85&color=yellow) | [#11248](https://github.com/deepset-ai/haystack/pull/11248) ✅, [#11229](https://github.com/deepset-ai/haystack/pull/11229), [#11228](https://github.com/deepset-ai/haystack/pull/11228), [#11226](https://github.com/deepset-ai/haystack/pull/11226) |
+
+## Security advisories
+
+| Project | Advisory | Summary | Severity |
+| --- | --- | --- | --- |
+| [langchain-ai/langgraphjs](https://github.com/langchain-ai/langgraphjs) | [GHSA-98xf-r82g-9mhx](https://github.com/langchain-ai/langgraphjs/security/advisories/GHSA-98xf-r82g-9mhx) | NoSQL parameter injection in MongoDBSaver allows cross-tenant state access | Medium (CVSS 6.7) |
